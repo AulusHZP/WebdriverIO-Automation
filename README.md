@@ -28,7 +28,7 @@ Before running the tests, make sure you have:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/AulusHZP/Automation.git
+git clone https://github.com/AulusHZP/WebdriverIO-Automation.git
 cd Automation
 ```
 
